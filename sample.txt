@@ -1,2 +1,2 @@
 Message from our github directory
-type something else
+Stretch challenge
